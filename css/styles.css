@@ -38,8 +38,8 @@ BASE STYLES
 }
 
 .main-nav a:hover {
-	color: orange;
-	border-bottom: 1px dotted orange;
+	color: #de533b;
+	border-bottom: 1px dotted #de533b;
 }
 
 img {
@@ -122,9 +122,6 @@ footer li a{
 	float: right;
 }
 
-/**************************
-LAYOUT STYLES
-**************************/
 
 .profile img {
 	width: 75%;
@@ -161,7 +158,6 @@ LAYOUT STYLES
 	padding-bottom: 1em;
 }
 
-/* new Style */
 .skills li {
   border-radius: 6px;
   display: block;
@@ -177,7 +173,7 @@ LAYOUT STYLES
 
 .contactinfo {
 	padding-bottom: 1em;
-	background-color: orange;
+	background-color: #4ca0d9;
 	color: white;
 }
 
@@ -199,9 +195,6 @@ LAYOUT STYLES
 	display: none;
 }
 
-/**************************
-MEDIA QUERIES
-**************************/
 
 @media (min-width: 768px) {
 	.main-header {
